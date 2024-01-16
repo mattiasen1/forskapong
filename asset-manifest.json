@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/forskapong/static/css/main.f855e6bc.css",
+    "main.js": "/forskapong/static/js/main.c9f4bba4.js",
+    "static/js/787.ef2781b8.chunk.js": "/forskapong/static/js/787.ef2781b8.chunk.js",
+    "static/media/logo.svg": "/forskapong/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/forskapong/index.html",
+    "main.f855e6bc.css.map": "/forskapong/static/css/main.f855e6bc.css.map",
+    "main.c9f4bba4.js.map": "/forskapong/static/js/main.c9f4bba4.js.map",
+    "787.ef2781b8.chunk.js.map": "/forskapong/static/js/787.ef2781b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c9f4bba4.js"
+  ]
+}
